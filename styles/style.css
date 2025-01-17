@@ -98,6 +98,7 @@ margin-right: 30px;
 
 .teams{
 align-items: center;
+gap: 50px;
 }
 .team-img-container{
 display: grid;
